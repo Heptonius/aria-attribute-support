@@ -1,0 +1,1 @@
+export { getSupportedAriaAttributes } from "./support";

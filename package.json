@@ -1,0 +1,16 @@
+{
+  "name": "aria-role-aria-attributes-support",
+  "version": "1.0.0",
+  "description": "A simple utility to check a given ARIA role ARIA attributes support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --run",
+    "test:watch": "vitest"
+  },
+  "author": "",
+  "license": "MIT",
+  "packageManager": "yarn@4.5.0",
+  "devDependencies": {
+    "vitest": "^2.1.1"
+  }
+}
